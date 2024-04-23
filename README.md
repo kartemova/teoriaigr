@@ -1,0 +1,2 @@
+# teoriaigr
+teoria
